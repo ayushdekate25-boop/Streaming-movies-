@@ -17,3 +17,19 @@ An online movie streaming platform that allows users to explore, watch, and enjo
 ⚡ Fast loading and smooth playback
 
 🔐 Secure user authentication (if applicable)
+🌟 Future Improvements
+
+🎞️ Recommendation system
+
+🧠 AI-based personalized suggestions
+
+📥 Offline downloads
+
+🗣️ Multi-language subtitles
+
+💳 Subscription & payment integration
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository, create a new branch, and submit a pull request.
